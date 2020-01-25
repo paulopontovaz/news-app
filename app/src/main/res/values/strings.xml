@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="no_articles_found">No news articles were found :(</string>
+    <string name="source_url">https://content.guardianapis.com/search</string>
+    <string name="api_key">6e5fa379-43ef-4ffc-8da0-097441e6072f</string>
+    <string name="no_internet_connection">No internet connection :(</string>
+    <string name="by">by %s</string>
+</resources>
